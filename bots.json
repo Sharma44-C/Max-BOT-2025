@@ -1,10 +1,10 @@
 [
   {
-    "name": "Max",
+    "name": "Asher",
     "uid": "100058837502078",
-    "botname": "max",
-    "prefix": "/",
-    "admins": [],
+    "botname": "asher",
+    "prefix": "*",
+    "admins": ["100092503144500"],
     "time": 0
   }
 ]
